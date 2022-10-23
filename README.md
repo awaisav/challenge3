@@ -19,5 +19,5 @@ Here is the link to the application: <a href="https://awaisav.github.io/week3-ch
 
 Screenshots:
 <h2>Screenshots</h2>
-<img src="https://github.com/awaisav/week2-challenge/blob/main/assets/screenshots/screenshot1.png" width="60%" height="500px">
-<img src="https://github.com/awaisav/week2-challenge/blob/main/assets/screenshots/screenshot2.png" width="60%" height="500px">
+<img src="https://github.com/awaisav/week3-challenge/blob/main/Screenshots/screenshot1.png" width="60%" height="500px">
+<img src="https://github.com/awaisav/week3-challenge/blob/main/Screenshots/screenshot2.png" width="60%" height="500px">
