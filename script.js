@@ -98,7 +98,7 @@ generateBtn.addEventListener("click", function () {
   function generatePassword(passSize, password) {
     //to determing how many more chars needs to be added
     var totalLength = passSize - password.length;
-    console.log(totalLength);
+    
     for (let i = 0; i < totalLength; i++) {
       //will push the chars from the lowerCase string into the password array
       password.push(
